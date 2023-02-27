@@ -2,34 +2,39 @@ import { INVALID_MOVE } from 'boardgame.io/core';
 import type { Game } from 'boardgame.io';
 import { GameUtils } from './gameUtils';
 import { PlayerUtils } from './playerUtils';
-import type { DevelopmentCard, GameState, Gem, Player } from './types';
+import { GameState, Gem, Gems, ID, Player } from './types';
+import { DevelopmentCards } from './constants';
+import { range } from 'lodash-es';
 
 export const Splendor: Game<GameState, {}> = {
   name: 'splendor',
 
-  setup: ({ ctx }, {}) => {
-    const players = {} as Record<string, Player>;
+  setup: ({ ctx, random }) => {
+    const board = GameUtils.create(ctx.numPlayers, random.Shuffle);
+    const players = {} as Record<ID, Player>;
 
-    for (let i = 0; i < ctx.numPlayers; i++) {
-      const player = PlayerUtils.create(`player ${i + 1}`);
-      players[player.id] = player;
+    // FIXME pass player IDs into game.
+    for (let idx = 0; idx < ctx.numPlayers; idx += 1) {
+      const player = PlayerUtils.create(`${idx}`);
+      players[idx] = player;
     }
 
     return {
+      ...board,
       players,
-      ...GameUtils.create(ctx.numPlayers),
     };
   },
 
-  seed: '02202023',
-
+  minPlayers: 2,
   turn: {
     minMoves: 1,
     maxMoves: 1,
   },
 
   moves: {
-    take: ({ G, playerID }, gems: Gem[]) => {
+    // TODO select action == highlight a card when a player select it.
+
+    take: ({ G, playerID, events }, gems: Gem[]) => {
       if (gems.includes('Gold')) return INVALID_MOVE;
 
       if (
@@ -49,31 +54,42 @@ export const Splendor: Game<GameState, {}> = {
         player.gems[gem] += 1;
       }
 
-      player._gemCount += gems.length;
+      PlayerUtils.aggregate(player);
+      events.endTurn();
     },
 
-    reserve: ({ G, playerID, events }, card: DevelopmentCard) => {
+    reserve: ({ G, playerID, events }, cardId: ID) => {
       const player = G.players[playerID];
+      const card = DevelopmentCards[cardId];
 
       if (player.reserved.length >= 3) return INVALID_MOVE;
 
       if (G.gems.Gold > 0) {
         G.gems.Gold -= 1;
         player.gems.Gold += 1;
-        player._gemCount += 1;
       }
 
       // move card into player's reserved
-      player.reserved.push(card);
-      G.cards[card.level] = G.cards[card.level].filter((c) => c.id !== card.id);
+      player.reserved.push(cardId);
+      G.cards[card.level] = G.cards[card.level].filter((c) => c !== cardId);
+
+      PlayerUtils.aggregate(player);
       events.endTurn();
     },
 
-    buy: ({ G, playerID }, card: DevelopmentCard, gems: Gem[]) => {
-      // validate
+    buy: ({ G, playerID, events }, cardId: ID) => {
+      // TODO validate
+      const card = DevelopmentCards[cardId];
       const player = G.players[playerID];
+      const gems = range(7).flatMap(() => Object.keys(Gems)) as Gem[];
 
-      player._points += card.point;
+      if (!PlayerUtils.canBuy({ player, card, gems })) return INVALID_MOVE;
+
+      player.cards.push(cardId);
+      G.cards[card.level] = G.cards[card.level].filter((c) => c !== cardId);
+
+      PlayerUtils.aggregate(player);
+      events.endTurn();
     },
   },
 

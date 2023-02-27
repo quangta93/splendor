@@ -1,0 +1,1262 @@
+{
+  "e18a48ba-e224-4a8b-817a-179317c31dbf": {
+    "id": "e18a48ba-e224-4a8b-817a-179317c31dbf",
+    "level": 0,
+    "point": 0,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 1,
+      "Ruby": 1,
+      "Diamond": 1,
+      "Onyx": 0
+    }
+  },
+  "4fa46724-9474-47f2-be17-1e85972554a1": {
+    "id": "4fa46724-9474-47f2-be17-1e85972554a1",
+    "level": 0,
+    "point": 0,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 2,
+      "Ruby": 1,
+      "Diamond": 1,
+      "Onyx": 0
+    }
+  },
+  "37be5893-a410-4aae-af05-84239055c6e9": {
+    "id": "37be5893-a410-4aae-af05-84239055c6e9",
+    "level": 0,
+    "point": 0,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 2,
+      "Ruby": 1,
+      "Diamond": 2,
+      "Onyx": 0
+    }
+  },
+  "38d486ed-5286-40fb-af3f-7f58bd391992": {
+    "id": "38d486ed-5286-40fb-af3f-7f58bd391992",
+    "level": 0,
+    "point": 0,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 0,
+      "Ruby": 3,
+      "Diamond": 0,
+      "Onyx": 1
+    }
+  },
+  "6886afc7-b48d-4d27-9b82-80f4007e65fa": {
+    "id": "6886afc7-b48d-4d27-9b82-80f4007e65fa",
+    "level": 0,
+    "point": 0,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 2,
+      "Sapphire": 0,
+      "Ruby": 1,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "cb92754b-fbf4-4705-8c6d-a9fe6d3271c3": {
+    "id": "cb92754b-fbf4-4705-8c6d-a9fe6d3271c3",
+    "level": 0,
+    "point": 0,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 2,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 2,
+      "Onyx": 0
+    }
+  },
+  "7e59ccb6-b497-4bac-b9cc-a51b9edf7352": {
+    "id": "7e59ccb6-b497-4bac-b9cc-a51b9edf7352",
+    "level": 0,
+    "point": 0,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "61978137-3df2-4fcb-8456-e707be349a9e": {
+    "id": "61978137-3df2-4fcb-8456-e707be349a9e",
+    "level": 0,
+    "point": 1,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 4,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "60a618c4-1dbe-4e97-9898-1bb78c415e3e": {
+    "id": "60a618c4-1dbe-4e97-9898-1bb78c415e3e",
+    "level": 0,
+    "point": 0,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 0,
+      "Ruby": 1,
+      "Diamond": 1,
+      "Onyx": 1
+    }
+  },
+  "5db33ecf-98d1-484a-b923-804dc66852d3": {
+    "id": "5db33ecf-98d1-484a-b923-804dc66852d3",
+    "level": 0,
+    "point": 0,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 0,
+      "Ruby": 2,
+      "Diamond": 1,
+      "Onyx": 1
+    }
+  },
+  "821f9318-4fbf-4c51-8065-fc27a33a90cc": {
+    "id": "821f9318-4fbf-4c51-8065-fc27a33a90cc",
+    "level": 0,
+    "point": 0,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 2,
+      "Sapphire": 0,
+      "Ruby": 2,
+      "Diamond": 1,
+      "Onyx": 0
+    }
+  },
+  "9cec5c93-1cb5-4adb-92c5-8013b24f88b8": {
+    "id": "9cec5c93-1cb5-4adb-92c5-8013b24f88b8",
+    "level": 0,
+    "point": 0,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 1,
+      "Ruby": 1,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "0eab35c3-1339-4964-b8c2-b2c2a8538e91": {
+    "id": "0eab35c3-1339-4964-b8c2-b2c2a8538e91",
+    "level": 0,
+    "point": 0,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 1,
+      "Onyx": 2
+    }
+  },
+  "c311e494-fe0f-4e0f-a4b7-84251e5a067d": {
+    "id": "c311e494-fe0f-4e0f-a4b7-84251e5a067d",
+    "level": 0,
+    "point": 0,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 2,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 2
+    }
+  },
+  "486400be-852d-42ff-afea-cd0cab989a17": {
+    "id": "486400be-852d-42ff-afea-cd0cab989a17",
+    "level": 0,
+    "point": 0,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 3
+    }
+  },
+  "2b4a91dc-7a78-4588-a2f9-247805e1614b": {
+    "id": "2b4a91dc-7a78-4588-a2f9-247805e1614b",
+    "level": 0,
+    "point": 1,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 4,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "2afa42a6-c63a-4cb4-a60a-6421be221927": {
+    "id": "2afa42a6-c63a-4cb4-a60a-6421be221927",
+    "level": 0,
+    "point": 0,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 1,
+      "Ruby": 1,
+      "Diamond": 0,
+      "Onyx": 1
+    }
+  },
+  "c2d55be4-356e-4ed6-b07c-26e8b3ec308d": {
+    "id": "c2d55be4-356e-4ed6-b07c-26e8b3ec308d",
+    "level": 0,
+    "point": 0,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 2,
+      "Sapphire": 1,
+      "Ruby": 1,
+      "Diamond": 0,
+      "Onyx": 1
+    }
+  },
+  "0e574c59-4139-4bf4-bb39-891f8669857b": {
+    "id": "0e574c59-4139-4bf4-bb39-891f8669857b",
+    "level": 0,
+    "point": 0,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 2,
+      "Sapphire": 2,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 1
+    }
+  },
+  "450f8e96-1c90-4fc8-9b09-94082a1b4e32": {
+    "id": "450f8e96-1c90-4fc8-9b09-94082a1b4e32",
+    "level": 0,
+    "point": 0,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 1,
+      "Ruby": 0,
+      "Diamond": 3,
+      "Onyx": 1
+    }
+  },
+  "5ec8e322-de07-44fb-9092-ebfaff33b8c5": {
+    "id": "5ec8e322-de07-44fb-9092-ebfaff33b8c5",
+    "level": 0,
+    "point": 0,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 2,
+      "Diamond": 0,
+      "Onyx": 1
+    }
+  },
+  "e137f140-b097-448f-8e21-8fd485267832": {
+    "id": "e137f140-b097-448f-8e21-8fd485267832",
+    "level": 0,
+    "point": 0,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 2,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 2
+    }
+  },
+  "f37acc44-96ec-4412-ac39-7507d8f7a3ee": {
+    "id": "f37acc44-96ec-4412-ac39-7507d8f7a3ee",
+    "level": 0,
+    "point": 0,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 3,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "663e3de1-64a6-4557-aadb-0350685a4d83": {
+    "id": "663e3de1-64a6-4557-aadb-0350685a4d83",
+    "level": 0,
+    "point": 1,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 4,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "544f2aa3-48d0-48be-a2d7-991fa44bafbd": {
+    "id": "544f2aa3-48d0-48be-a2d7-991fa44bafbd",
+    "level": 0,
+    "point": 0,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 1,
+      "Ruby": 1,
+      "Diamond": 1,
+      "Onyx": 1
+    }
+  },
+  "610b4337-8a27-4255-9cb7-57f556d919f0": {
+    "id": "610b4337-8a27-4255-9cb7-57f556d919f0",
+    "level": 0,
+    "point": 0,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 1,
+      "Ruby": 1,
+      "Diamond": 1,
+      "Onyx": 2
+    }
+  },
+  "ad1dc1fa-3435-48aa-abf8-b4aaf54f583f": {
+    "id": "ad1dc1fa-3435-48aa-abf8-b4aaf54f583f",
+    "level": 0,
+    "point": 0,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 1,
+      "Ruby": 2,
+      "Diamond": 0,
+      "Onyx": 2
+    }
+  },
+  "dbd1d8d7-c126-4a56-8eb8-f8bce1f5c390": {
+    "id": "dbd1d8d7-c126-4a56-8eb8-f8bce1f5c390",
+    "level": 0,
+    "point": 0,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 3,
+      "Ruby": 0,
+      "Diamond": 1,
+      "Onyx": 0
+    }
+  },
+  "07ea7c68-3ea7-47a5-b416-a359b2138ee9": {
+    "id": "07ea7c68-3ea7-47a5-b416-a359b2138ee9",
+    "level": 0,
+    "point": 0,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 1,
+      "Ruby": 0,
+      "Diamond": 2,
+      "Onyx": 0
+    }
+  },
+  "bd976ff0-79aa-4ac5-a191-98585aa33d91": {
+    "id": "bd976ff0-79aa-4ac5-a191-98585aa33d91",
+    "level": 0,
+    "point": 0,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 2,
+      "Ruby": 2,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "301d6ab5-0699-401c-993e-68024dbbcb0b": {
+    "id": "301d6ab5-0699-401c-993e-68024dbbcb0b",
+    "level": 0,
+    "point": 0,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 3,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "51aa134c-5720-4ada-be7d-7d545003b7e9": {
+    "id": "51aa134c-5720-4ada-be7d-7d545003b7e9",
+    "level": 0,
+    "point": 1,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 4
+    }
+  },
+  "29b7536e-ffda-4712-aec0-650106e553c4": {
+    "id": "29b7536e-ffda-4712-aec0-650106e553c4",
+    "level": 0,
+    "point": 0,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 1,
+      "Ruby": 0,
+      "Diamond": 1,
+      "Onyx": 1
+    }
+  },
+  "9a1992f3-1ee3-496b-8bf3-222bc5ed5f9f": {
+    "id": "9a1992f3-1ee3-496b-8bf3-222bc5ed5f9f",
+    "level": 0,
+    "point": 0,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 1,
+      "Ruby": 0,
+      "Diamond": 2,
+      "Onyx": 1
+    }
+  },
+  "49ffe0c3-848c-4377-a533-30fe284afe84": {
+    "id": "49ffe0c3-848c-4377-a533-30fe284afe84",
+    "level": 0,
+    "point": 0,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 2,
+      "Onyx": 2
+    }
+  },
+  "1607e71e-4b68-4c47-beef-94ff6cf2da65": {
+    "id": "1607e71e-4b68-4c47-beef-94ff6cf2da65",
+    "level": 0,
+    "point": 0,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 1,
+      "Diamond": 1,
+      "Onyx": 3
+    }
+  },
+  "6e318f79-51e5-4dcc-8991-081ec51b86de": {
+    "id": "6e318f79-51e5-4dcc-8991-081ec51b86de",
+    "level": 0,
+    "point": 0,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 2,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "3daf43f8-20e9-4a26-ab2c-ad53ea550c85": {
+    "id": "3daf43f8-20e9-4a26-ab2c-ad53ea550c85",
+    "level": 0,
+    "point": 0,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 2,
+      "Diamond": 2,
+      "Onyx": 0
+    }
+  },
+  "66ff5480-7e59-4082-8183-d7ab6f7d9253": {
+    "id": "66ff5480-7e59-4082-8183-d7ab6f7d9253",
+    "level": 0,
+    "point": 0,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 3,
+      "Onyx": 0
+    }
+  },
+  "86bead8a-1b03-4320-8f37-3ac558e56e83": {
+    "id": "86bead8a-1b03-4320-8f37-3ac558e56e83",
+    "level": 0,
+    "point": 1,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 4,
+      "Onyx": 0
+    }
+  },
+  "980df5e2-6262-45bb-a69c-69edec3bca72": {
+    "id": "980df5e2-6262-45bb-a69c-69edec3bca72",
+    "level": 1,
+    "point": 1,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 2,
+      "Sapphire": 2,
+      "Ruby": 0,
+      "Diamond": 3,
+      "Onyx": 0
+    }
+  },
+  "a16d4cd4-b4cc-4490-b106-7dea008e8e8d": {
+    "id": "a16d4cd4-b4cc-4490-b106-7dea008e8e8d",
+    "level": 1,
+    "point": 1,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 3,
+      "Onyx": 2
+    }
+  },
+  "2905f902-dc2a-4e14-a773-6350309f938c": {
+    "id": "2905f902-dc2a-4e14-a773-6350309f938c",
+    "level": 1,
+    "point": 2,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 4,
+      "Sapphire": 1,
+      "Ruby": 2,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "bce8e5fa-d2ba-4e8f-8c58-bdf577eea781": {
+    "id": "bce8e5fa-d2ba-4e8f-8c58-bdf577eea781",
+    "level": 1,
+    "point": 2,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 5,
+      "Sapphire": 0,
+      "Ruby": 3,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "ad5c2ff1-c1ec-416a-8968-2ffd902c5c9a": {
+    "id": "ad5c2ff1-c1ec-416a-8968-2ffd902c5c9a",
+    "level": 1,
+    "point": 2,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 5,
+      "Onyx": 0
+    }
+  },
+  "f4a6b531-79b2-413d-b069-b6a03c957857": {
+    "id": "f4a6b531-79b2-413d-b069-b6a03c957857",
+    "level": 1,
+    "point": 3,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 6
+    }
+  },
+  "2df57e0f-7949-430b-80e6-808ad1cd77a4": {
+    "id": "2df57e0f-7949-430b-80e6-808ad1cd77a4",
+    "level": 1,
+    "point": 1,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 2,
+      "Sapphire": 2,
+      "Ruby": 3,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "011482cd-8285-41cf-a4b9-ee0ec49a106c": {
+    "id": "011482cd-8285-41cf-a4b9-ee0ec49a106c",
+    "level": 1,
+    "point": 1,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 2,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 3
+    }
+  },
+  "3b723cdb-77e1-40cf-94d4-8623c73bd57c": {
+    "id": "3b723cdb-77e1-40cf-94d4-8623c73bd57c",
+    "level": 1,
+    "point": 2,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 3,
+      "Ruby": 0,
+      "Diamond": 5,
+      "Onyx": 0
+    }
+  },
+  "c0c21b4d-847a-431a-a5e6-cadf64d63927": {
+    "id": "c0c21b4d-847a-431a-a5e6-cadf64d63927",
+    "level": 1,
+    "point": 2,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 1,
+      "Diamond": 2,
+      "Onyx": 4
+    }
+  },
+  "648e7930-6bea-4c83-bb9a-a0857e8b1818": {
+    "id": "648e7930-6bea-4c83-bb9a-a0857e8b1818",
+    "level": 1,
+    "point": 2,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 5,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "77d1e44c-373f-4459-854e-1b570ba443b2": {
+    "id": "77d1e44c-373f-4459-854e-1b570ba443b2",
+    "level": 1,
+    "point": 3,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 6,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "71775cfd-0bda-44c1-bb07-6c17ba199b15": {
+    "id": "71775cfd-0bda-44c1-bb07-6c17ba199b15",
+    "level": 1,
+    "point": 1,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 0,
+      "Ruby": 2,
+      "Diamond": 0,
+      "Onyx": 2
+    }
+  },
+  "cdd5133e-4363-474e-b52a-fb1a2ff5774e": {
+    "id": "cdd5133e-4363-474e-b52a-fb1a2ff5774e",
+    "level": 1,
+    "point": 1,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 3,
+      "Ruby": 3,
+      "Diamond": 2,
+      "Onyx": 0
+    }
+  },
+  "d251a3fe-e0a5-4dd0-88a7-ac6fc710f0f3": {
+    "id": "d251a3fe-e0a5-4dd0-88a7-ac6fc710f0f3",
+    "level": 1,
+    "point": 2,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 1,
+      "Sapphire": 0,
+      "Ruby": 4,
+      "Diamond": 0,
+      "Onyx": 2
+    }
+  },
+  "bcbe5405-a826-45b0-a92e-ef6401673246": {
+    "id": "bcbe5405-a826-45b0-a92e-ef6401673246",
+    "level": 1,
+    "point": 2,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 5,
+      "Diamond": 0,
+      "Onyx": 3
+    }
+  },
+  "5a57b1a6-1747-4d58-bd0c-d59d3294f75d": {
+    "id": "5a57b1a6-1747-4d58-bd0c-d59d3294f75d",
+    "level": 1,
+    "point": 2,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 5,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "3eba7e2b-1480-4797-ba16-493f51731f7a": {
+    "id": "3eba7e2b-1480-4797-ba16-493f51731f7a",
+    "level": 1,
+    "point": 3,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 6,
+      "Onyx": 0
+    }
+  },
+  "7f8038c5-7e14-433c-a74e-6de8da27fc08": {
+    "id": "7f8038c5-7e14-433c-a74e-6de8da27fc08",
+    "level": 1,
+    "point": 1,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 2,
+      "Sapphire": 0,
+      "Ruby": 3,
+      "Diamond": 3,
+      "Onyx": 0
+    }
+  },
+  "505840e7-7606-425b-ac24-eff42e70fd22": {
+    "id": "505840e7-7606-425b-ac24-eff42e70fd22",
+    "level": 1,
+    "point": 1,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 3,
+      "Ruby": 0,
+      "Diamond": 2,
+      "Onyx": 2
+    }
+  },
+  "3688f5f5-c082-47b0-a809-c096ef659f0c": {
+    "id": "3688f5f5-c082-47b0-a809-c096ef659f0c",
+    "level": 1,
+    "point": 2,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 2,
+      "Ruby": 0,
+      "Diamond": 4,
+      "Onyx": 1
+    }
+  },
+  "5eaf32de-19c8-4716-b550-a61607cb7321": {
+    "id": "5eaf32de-19c8-4716-b550-a61607cb7321",
+    "level": 1,
+    "point": 2,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 5,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "7c6c2f8c-d016-4297-b654-a4156d16897e": {
+    "id": "7c6c2f8c-d016-4297-b654-a4156d16897e",
+    "level": 1,
+    "point": 2,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 5,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "fd139b27-e5fb-474f-bf8b-9dc2e8fb1901": {
+    "id": "fd139b27-e5fb-474f-bf8b-9dc2e8fb1901",
+    "level": 1,
+    "point": 3,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 6,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "87114c49-3eeb-4bee-a42c-b81827a5c7ba": {
+    "id": "87114c49-3eeb-4bee-a42c-b81827a5c7ba",
+    "level": 1,
+    "point": 1,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 2,
+      "Diamond": 2,
+      "Onyx": 3
+    }
+  },
+  "fe4e9246-d1b0-4655-8f04-085a3b4e91d3": {
+    "id": "fe4e9246-d1b0-4655-8f04-085a3b4e91d3",
+    "level": 1,
+    "point": 1,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 3,
+      "Ruby": 2,
+      "Diamond": 0,
+      "Onyx": 3
+    }
+  },
+  "ae5a156c-589f-4471-a8c0-01fc3ba6b656": {
+    "id": "ae5a156c-589f-4471-a8c0-01fc3ba6b656",
+    "level": 1,
+    "point": 2,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 2,
+      "Sapphire": 4,
+      "Ruby": 0,
+      "Diamond": 1,
+      "Onyx": 0
+    }
+  },
+  "08cb69f2-b0dd-478c-bad7-c6381b0bf67e": {
+    "id": "08cb69f2-b0dd-478c-bad7-c6381b0bf67e",
+    "level": 1,
+    "point": 2,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 3,
+      "Onyx": 5
+    }
+  },
+  "6886dfd8-afb8-4b7c-954c-6b5f3af85bec": {
+    "id": "6886dfd8-afb8-4b7c-954c-6b5f3af85bec",
+    "level": 1,
+    "point": 2,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 5
+    }
+  },
+  "93bdd6e9-04e1-433e-a322-cdc3db0573a9": {
+    "id": "93bdd6e9-04e1-433e-a322-cdc3db0573a9",
+    "level": 1,
+    "point": 3,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 6,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "326e807d-f705-4ee9-bd9c-785aaceca13a": {
+    "id": "326e807d-f705-4ee9-bd9c-785aaceca13a",
+    "level": 2,
+    "point": 3,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 5,
+      "Sapphire": 3,
+      "Ruby": 3,
+      "Diamond": 3,
+      "Onyx": 0
+    }
+  },
+  "2fb8eee4-1e5d-448a-8e60-da3559a7f298": {
+    "id": "2fb8eee4-1e5d-448a-8e60-da3559a7f298",
+    "level": 2,
+    "point": 4,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 7,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "b146da9b-87da-4d70-8be2-3c558bd3c888": {
+    "id": "b146da9b-87da-4d70-8be2-3c558bd3c888",
+    "level": 2,
+    "point": 4,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 0,
+      "Ruby": 6,
+      "Diamond": 0,
+      "Onyx": 3
+    }
+  },
+  "dd3182fb-f919-46e4-9f37-2d592b011e47": {
+    "id": "dd3182fb-f919-46e4-9f37-2d592b011e47",
+    "level": 2,
+    "point": 5,
+    "gem": "Onyx",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 7,
+      "Diamond": 0,
+      "Onyx": 3
+    }
+  },
+  "1d6a8338-75f4-4af1-9b73-92123292bb03": {
+    "id": "1d6a8338-75f4-4af1-9b73-92123292bb03",
+    "level": 2,
+    "point": 3,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 0,
+      "Ruby": 3,
+      "Diamond": 3,
+      "Onyx": 5
+    }
+  },
+  "689e9d2f-7cc0-4ddb-a549-d5368d63e121": {
+    "id": "689e9d2f-7cc0-4ddb-a549-d5368d63e121",
+    "level": 2,
+    "point": 4,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 7,
+      "Onyx": 0
+    }
+  },
+  "46d926f1-3905-4247-82a5-33b37453ca87": {
+    "id": "46d926f1-3905-4247-82a5-33b37453ca87",
+    "level": 2,
+    "point": 4,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 3,
+      "Ruby": 0,
+      "Diamond": 6,
+      "Onyx": 3
+    }
+  },
+  "5064936d-df56-4a10-a82f-398cb8e579e9": {
+    "id": "5064936d-df56-4a10-a82f-398cb8e579e9",
+    "level": 2,
+    "point": 5,
+    "gem": "Sapphire",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 3,
+      "Ruby": 0,
+      "Diamond": 7,
+      "Onyx": 0
+    }
+  },
+  "9f18f752-e4fb-4e7b-b3f8-90579402a90d": {
+    "id": "9f18f752-e4fb-4e7b-b3f8-90579402a90d",
+    "level": 2,
+    "point": 3,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 3,
+      "Ruby": 5,
+      "Diamond": 0,
+      "Onyx": 3
+    }
+  },
+  "9f3c41b6-0a5c-43ef-a7bc-e243ce39b613": {
+    "id": "9f3c41b6-0a5c-43ef-a7bc-e243ce39b613",
+    "level": 2,
+    "point": 4,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 7
+    }
+  },
+  "db254186-5bb8-4197-9998-4dba6d000b71": {
+    "id": "db254186-5bb8-4197-9998-4dba6d000b71",
+    "level": 2,
+    "point": 4,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 3,
+      "Diamond": 3,
+      "Onyx": 6
+    }
+  },
+  "00401ca4-0ec5-40ff-8bf6-a3d97e778982": {
+    "id": "00401ca4-0ec5-40ff-8bf6-a3d97e778982",
+    "level": 2,
+    "point": 5,
+    "gem": "Diamond",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 3,
+      "Onyx": 7
+    }
+  },
+  "001074ab-7fd2-4e0f-af3c-a751a467e6d9": {
+    "id": "001074ab-7fd2-4e0f-af3c-a751a467e6d9",
+    "level": 2,
+    "point": 3,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 3,
+      "Ruby": 3,
+      "Diamond": 5,
+      "Onyx": 3
+    }
+  },
+  "36cfb280-83f2-43dc-9bdd-ed6565f2543e": {
+    "id": "36cfb280-83f2-43dc-9bdd-ed6565f2543e",
+    "level": 2,
+    "point": 4,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 7,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "07dd903d-9658-4472-aa9b-20229161c7e2": {
+    "id": "07dd903d-9658-4472-aa9b-20229161c7e2",
+    "level": 2,
+    "point": 4,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 6,
+      "Ruby": 0,
+      "Diamond": 3,
+      "Onyx": 0
+    }
+  },
+  "61ad7157-5783-46f8-b4e5-8699b3bab386": {
+    "id": "61ad7157-5783-46f8-b4e5-8699b3bab386",
+    "level": 2,
+    "point": 5,
+    "gem": "Emerald",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 7,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "3c1f23f6-cf94-4b22-b42c-2fd0597e2dcd": {
+    "id": "3c1f23f6-cf94-4b22-b42c-2fd0597e2dcd",
+    "level": 2,
+    "point": 3,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 5,
+      "Ruby": 0,
+      "Diamond": 3,
+      "Onyx": 3
+    }
+  },
+  "3412606a-d780-4f44-b0c5-ae74ebb6e8b7": {
+    "id": "3412606a-d780-4f44-b0c5-ae74ebb6e8b7",
+    "level": 2,
+    "point": 4,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 7,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "bca5b1ac-7012-4678-85b3-487efa6917de": {
+    "id": "bca5b1ac-7012-4678-85b3-487efa6917de",
+    "level": 2,
+    "point": 4,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 6,
+      "Sapphire": 3,
+      "Ruby": 3,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "5afd1e9f-e25a-4be0-bf2f-1e73af95f5f3": {
+    "id": "5afd1e9f-e25a-4be0-bf2f-1e73af95f5f3",
+    "level": 2,
+    "point": 5,
+    "gem": "Ruby",
+    "price": {
+      "Gold": 0,
+      "Emerald": 7,
+      "Sapphire": 0,
+      "Ruby": 3,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  }
+}

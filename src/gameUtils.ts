@@ -1,16 +1,21 @@
+import { DevelopmentCardsByLevels, NobleCards } from './constants';
+import { Shuffle } from './types';
+
 export const GameUtils = {
-  create: (numPlayers: number) => {
+  create: (numPlayers: number, shuffle: Shuffle) => {
     const cards = {
-      0: [],
-      1: [],
-      2: [],
+      0: shuffle([...DevelopmentCardsByLevels[0]]).map((c) => c.id),
+      1: shuffle([...DevelopmentCardsByLevels[1]]).map((c) => c.id),
+      2: shuffle([...DevelopmentCardsByLevels[2]]).map((c) => c.id),
     };
+
+    const nobles = shuffle(Object.values(NobleCards)).map((c) => c.id);
 
     switch (numPlayers) {
       case 2: {
         return {
           cards,
-          nobles: [], // len=3
+          nobles: nobles.slice(0, 3), // len=3
           gems: {
             Gold: 5,
             Diamond: 4,
@@ -25,7 +30,7 @@ export const GameUtils = {
       case 3: {
         return {
           cards,
-          nobles: [], // len=4
+          nobles: nobles.slice(0, 4), // len=4
           gems: {
             Gold: 5,
             Diamond: 5,
@@ -40,7 +45,7 @@ export const GameUtils = {
       default: {
         return {
           cards,
-          nobles: [], // len = 4
+          nobles: nobles.slice(0, 4), // len=4
           gems: {
             Gold: 5,
             Diamond: 7,

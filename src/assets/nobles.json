@@ -1,0 +1,122 @@
+{
+  "d0eb15a0-1c16-457b-9ead-ed3a4f14a273": {
+    "id": "d0eb15a0-1c16-457b-9ead-ed3a4f14a273",
+    "point": 3,
+    "price": {
+      "Gold": 0,
+      "Emerald": 4,
+      "Sapphire": 0,
+      "Ruby": 4,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "81370a3d-b8b6-44ab-a40d-51a86735d627": {
+    "id": "81370a3d-b8b6-44ab-a40d-51a86735d627",
+    "point": 3,
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 3,
+      "Diamond": 3,
+      "Onyx": 3
+    }
+  },
+  "a5f74f2a-2b6a-49c5-9b0e-5fe862658328": {
+    "id": "a5f74f2a-2b6a-49c5-9b0e-5fe862658328",
+    "point": 3,
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 4,
+      "Ruby": 0,
+      "Diamond": 4,
+      "Onyx": 0
+    }
+  },
+  "f622e451-1274-444b-8018-2eb8cb5cae0a": {
+    "id": "f622e451-1274-444b-8018-2eb8cb5cae0a",
+    "point": 3,
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 0,
+      "Diamond": 4,
+      "Onyx": 4
+    }
+  },
+  "7892e5ad-1461-48cc-abf2-04e06f9adece": {
+    "id": "7892e5ad-1461-48cc-abf2-04e06f9adece",
+    "point": 3,
+    "price": {
+      "Gold": 0,
+      "Emerald": 4,
+      "Sapphire": 4,
+      "Ruby": 0,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "9a3ccd69-037c-411f-8328-fceaa5201eef": {
+    "id": "9a3ccd69-037c-411f-8328-fceaa5201eef",
+    "point": 3,
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 3,
+      "Ruby": 3,
+      "Diamond": 0,
+      "Onyx": 0
+    }
+  },
+  "34926247-6e11-4170-bef2-5a99b563ad69": {
+    "id": "34926247-6e11-4170-bef2-5a99b563ad69",
+    "point": 3,
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 3,
+      "Ruby": 0,
+      "Diamond": 3,
+      "Onyx": 0
+    }
+  },
+  "1b204d89-090e-4dcc-87f3-54bef31d956b": {
+    "id": "1b204d89-090e-4dcc-87f3-54bef31d956b",
+    "point": 3,
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 0,
+      "Ruby": 4,
+      "Diamond": 0,
+      "Onyx": 4
+    }
+  },
+  "a6fc80d5-2f15-4a46-8f7e-4f735e37f8bb": {
+    "id": "a6fc80d5-2f15-4a46-8f7e-4f735e37f8bb",
+    "point": 3,
+    "price": {
+      "Gold": 0,
+      "Emerald": 0,
+      "Sapphire": 3,
+      "Ruby": 3,
+      "Diamond": 3,
+      "Onyx": 0
+    }
+  },
+  "bc9b9517-0d5b-44b1-953f-56403114e00e": {
+    "id": "bc9b9517-0d5b-44b1-953f-56403114e00e",
+    "point": 3,
+    "price": {
+      "Gold": 0,
+      "Emerald": 3,
+      "Sapphire": 0,
+      "Ruby": 3,
+      "Diamond": 0,
+      "Onyx": 3
+    }
+  }
+}
